@@ -1,1 +1,3 @@
-# analiza_rynku_mieszkaniowego
+# Analiza rynku mieszkaniowego
+
+![./wizualizacje/1.png]
